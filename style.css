@@ -1,0 +1,29 @@
+.container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.square {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    background-color: #ff8080;
+    top: 50px;
+    left: 50px;
+}
+
+.blue {
+    background-color: #8080ff;
+    top: 100px;
+    left: 100px;
+}
+
+.green {
+    background-color: #80ff80;
+    top: 150px;
+    left: 150px;
+}
